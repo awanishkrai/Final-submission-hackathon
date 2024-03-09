@@ -1,0 +1,72 @@
+h1{
+    font-size:60px;
+    color: rgb(238, 194, 140);
+}
+h5{
+    color:bisque;
+}
+.net{
+    color:rgb(3, 3, 3);
+    background-color: rgb(188, 192, 196);
+    opacity: 80%;
+    margin: 70px;
+    padding:4px;
+}
+#que{
+    color:bisque;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 90px;
+}
+button {
+    background-color: #aa6d04;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#sec{
+    position: absolute;
+}
+#sen{
+    position: absolute;
+    left: 18%;
+
+}
+#sec:hover{
+    background-color: brown;
+}
+#sen:hover {
+    background-color: brown;
+}
+#vis:hover{
+    background-color: brown;
+}
+#pol:hover{
+    background-color: brown;
+}
+img{
+    position:absolute;
+    bottom:62%;
+    width:180px;
+
+}
+#sen {
+    position:absolute;
+    left: 15%;}
+#vis{
+    position: absolute;
+        left: 32.5%;
+}
+#pol {
+    position: absolute;
+    left: 23.5%;
+}
+#map {
+    position: absolute;
+    left: 8%;
+}
+
